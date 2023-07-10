@@ -1,0 +1,23 @@
+{
+  "name": "stackblitz-starters-r4htuo",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "material-ui": "^0.19.0 || ^0.20.0 || 1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-redux": "^4.3.0 || ^5.0.0",
+    "redux": "^3.0.0 || ^4.0.0",
+    "redux-form": "^6.0.0 || ^7.0.0",
+    "redux-form-material-ui": "^4.3.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
